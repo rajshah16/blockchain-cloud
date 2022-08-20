@@ -1,0 +1,2 @@
+# blockchain-cloud
+Blockchain-cloud is is a web3 cloud dapp which you can easily manage your files and folders and even websites by using the distributed storage. This is a web3 cloud dapp which you can easily upload your files and folders and even websites to the distributed storage such as Filcoin Network, Swarm Network and Arweave Network. And we use the smart contract as the file manager to search the file indexs, it is designed to be multi chains supported.
