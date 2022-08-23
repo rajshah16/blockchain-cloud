@@ -12,7 +12,7 @@ This DApp also has a built-in NFT marketplace called Web3NFT, so you can mint yo
 
 <img width="981" alt="blockchain" src="https://user-images.githubusercontent.com/65075827/185760498-1f440ecf-eb53-49d2-88e3-0ebbe860ac14.png">
 
-Made with for AlgoBharat with :heart: by:
+Made for AlgoBharat with :heart: by:
 - Saket Pradhan
 - Raj Shah
 - Ranveer Shah
