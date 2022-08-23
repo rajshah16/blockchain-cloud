@@ -9,7 +9,7 @@ To keep the high quality of the NFTs—the total supply being limited to a maxim
 
 <img width="981" alt="blockchain" src="https://user-images.githubusercontent.com/65075827/185760498-1f440ecf-eb53-49d2-88e3-0ebbe860ac14.png">
 
-Made with :heart: by:
+Made with for AlgoBharat with :heart: by:
 - Saket Pradhan
 - Raj Shah
 - Ranveer Shah
